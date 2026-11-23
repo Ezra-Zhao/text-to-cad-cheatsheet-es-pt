@@ -1,5 +1,7 @@
 # 📐 Guía rápida: text-to-cad — tu agente dibuja CAD desde texto (ES · PT)
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 Una sola página para usar **text-to-cad** (de earthtojake): describir una pieza en lenguaje natural y obtener un modelo CAD editable, con el flujo completo de la idea a la fabricación, los skills que trae y los errores que arruinan una pieza.
 
 **Autor:** Guangyi Zhao · Octubre 2026
